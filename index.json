@@ -1,0 +1,11 @@
+{
+  "org": "daviddrysdale",
+  "repo": "python-phonenumbers",
+  "versions": [
+    {
+      "commit": "e738f6f872ee9b053770c2784edc1b46d2903cc6",
+      "tag": "",
+      "parsed_at": "2026-11-06T06:13:48.300129+00:00"
+    }
+  ]
+}
