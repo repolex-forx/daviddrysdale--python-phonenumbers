@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/daviddrysdale/python-phonenumbers/commit/e738f6f872ee9b053770c2784edc1b46d2903cc6",
       "git:hexsha": "e738f6f872ee9b053770c2784edc1b46d2903cc6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T06:13:48.298160+00:00"
     },
     {
       "@id": "https://repolex.ai/r/daviddrysdale/python-phonenumbers/commit/75a79c5881c8946c3fada89d8aab7bfe5f4da643",
