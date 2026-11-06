@@ -508,6 +508,14 @@
         "blob/c809764a31222c3acc4605f354b8fe5e56e00689.nq.gz",
         "blob/7c43b345c526d5c2b79621bcef006fcbd1535d6b.nq.gz",
         "blob/ae8c4d958ce911512c7a9e3354ef87c65a78a091.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e738f6f872ee9b053770c2784edc1b46d2903cc6/chunk-001.nq.gz",
+        "aggregate/ast/e738f6f872ee9b053770c2784edc1b46d2903cc6/chunk-002.nq.gz",
+        "aggregate/ast/e738f6f872ee9b053770c2784edc1b46d2903cc6/chunk-003.nq.gz",
+        "aggregate/ast/e738f6f872ee9b053770c2784edc1b46d2903cc6/chunk-004.nq.gz",
+        "aggregate/ast/e738f6f872ee9b053770c2784edc1b46d2903cc6/chunk-005.nq.gz",
+        "aggregate/ast/e738f6f872ee9b053770c2784edc1b46d2903cc6/chunk-006.nq.gz"
       ]
     }
   ],
